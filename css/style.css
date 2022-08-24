@@ -160,7 +160,7 @@ li {
 }
 p {
 
-	
+
 	margin-bottom: 15px;
 }
 hr {
@@ -531,7 +531,7 @@ color: #b8bfc3;
     z-index: 1;
     cursor: pointer;
     transition: .3s;
-    
+
 }
  .slider-active .slick-dots li.slick-active button {
     width: 50px;
@@ -710,7 +710,7 @@ color: #b8bfc3;
     color: #181e23;
 }
 .header-three{
-    
+
 }
 .header-three .menu-area {
    margin-bottom: -116px;
@@ -728,7 +728,7 @@ margin-top: 50px;
 margin-right: -227px;
 }
 .slider-four .slider-bg {
-  
+
 }
 .slider-four .slider-img {
 margin-left: 0;
@@ -788,7 +788,7 @@ background-image: -moz-linear-gradient( 0deg, rgb(5,180,105) 0%, rgb(72,199,144)
   background-image: -ms-linear-gradient( 0deg, rgb(5,180,105) 0%, rgb(72,199,144) 100%);
   box-shadow: 2.5px 4.33px 15px 0px rgba(6, 180, 106, 0.4);
     color: #fff;
-   
+
 }
 
 .search-top2 {
@@ -1673,7 +1673,7 @@ padding: 45px;
 border: none;
 margin-bottom: 30px;
 border-radius: 0;
-  
+
 }
 .services-two .s-single-services{
     float: left;
@@ -1719,7 +1719,7 @@ border: none;
 margin-bottom: 30px;
 border-radius: 0;
      border: 2px solid #F0F0F0;
-  
+
 }
 .services-three .s-single-services{
     float: left;
@@ -1791,7 +1791,7 @@ left: 0;}
 .s-single-services.active .second-services-content h5{}
 .s-single-services.active .second-services-content a,#feature-top .s-single-services.active .btn2,.s-single-services.active .services-icon .glyph-icon::before{}
 .s-single-services.active .second-services-content p{
-   
+
 }
 .s-single-services.active .active-icon{display: block;}
 .s-single-services.active .d-active-icon{display: none;}
@@ -1938,7 +1938,7 @@ height: 40px;
     color:#777;
 }
 .services-content-02 .ss-btn2 span{
-   color: #ff8a01; 
+   color: #ff8a01;
     margin-left: -10px;
     font-weight: 600;
     opacity: 0;
@@ -1990,10 +1990,10 @@ transform: scale(1.08);
 }
 .services-box-04 .services-content-02 .blue li::before{
     color: #4cc3c1;
-} 
+}
 .services-box-04 .services-content-02 .green li::before{
     color: #2db065;
-} 
+}
 .services-05 h2{
     color: #fff;
 }
@@ -2047,12 +2047,12 @@ margin-right: 30px;
 .services-box07 .sr-contner .text h5{
     color: #fff;
     font-size: 18px;
-    
+
 }
 .services-box07 .sr-contner .text p{
     color: #9aa4a9;
     margin-top: 20px;
-    
+
 }
 
 .services-07 .user-box {
@@ -2147,6 +2147,7 @@ display: none;
     background-color: rgb(255, 255, 255);
     box-shadow:2.5px 4.33px 15px 0px rgba(0, 0, 0, 0.07) ;
     padding: 30px;
+	height: 325px;
 }
 .services-area2 .services-box2 h5 {
     font-size: 24px;
@@ -2185,7 +2186,7 @@ display: none;
 .video-img {
 	position: relative;
 	overflow: hidden;
-	z-index: 1;   
+	z-index: 1;
 }
 .video-img img{
     width: 100%;
@@ -2492,7 +2493,7 @@ display: none;
     cursor: pointer;
     background: no-repeat;
     transition: .3s;
-    
+
 }
  .team-active .slick-dots li.slick-active button {
 }
@@ -2937,7 +2938,7 @@ margin-bottom: 0;
     margin-top: 83px;
 }
 .testimonial-area h2,.testimonial-area p{
-	
+
 }
 .ta-bg {
 	height: 475px;
@@ -3079,6 +3080,7 @@ margin: 20px;
     box-shadow: 1px 1.732px 16px 0px rgba(0, 0, 0, 0.1);
     padding: 30px;
     margin: 15px;
+	height: 350px;
 }
 .testimonial-active .testi-img {
     float: left;
@@ -3404,7 +3406,7 @@ line-height: 40px;
     cursor: pointer;
     background: no-repeat;
     transition: .3s;
-    
+
 }
  .home-blog-active .slick-dots li.slick-active button {
 }
@@ -3536,7 +3538,7 @@ z-index: 1;
 }
 .blog-area .single-post2 {
     box-shadow: 2.5px 4.33px 15px 0px rgba(0, 0, 0, 0.09);
-    border-radius: 10px; 
+    border-radius: 10px;
     overflow: hidden;
 }
 .blog-content2 .b-meta{
@@ -4291,11 +4293,11 @@ top: 5px;
 	font-weight: 500;
 }
 .gallery-image:hover figcaption {
-   opacity: 1;	
+   opacity: 1;
     bottom:30px;
 	-webkit-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
-	transition: all 0.3s ease 0s;	
+	transition: all 0.3s ease 0s;
 
 }
 .gallery-image figcaption h4{
@@ -4460,7 +4462,7 @@ top: 121px;
 .has-mega-menu{
         position:static;
     }
-	 
+
     li.has-sub.has-mega-menu ul{
         position: absolute;
         top: NNpx; /*insert the needed value*/
@@ -4480,11 +4482,11 @@ top: 121px;
     /*flexbox fallback for browsers that do not support CSS GRID lyout*/
         display: flex;
         flex-wrap: wrap;
-    /*CSS GRID lyout*/ 
+    /*CSS GRID lyout*/
         display: grid;
-        grid-template-columns: repeat(auto-fit,minmax(25%, 1fr));   
+        grid-template-columns: repeat(auto-fit,minmax(25%, 1fr));
 		margin-left: -820px;
-		
+
     }
 	li.has-sub.has-mega-menu:hover>ul>li>ul{
     /*flexbox fallback for browsers that do not support CSS GRID lyout*/
@@ -4492,8 +4494,8 @@ top: 121px;
         flex-wrap: wrap;
 width: auto;
 background:none;
-    /*CSS GRID lyout*/ 
-        display: grid;       
+    /*CSS GRID lyout*/
+        display: grid;
 		position: relative;
 border: none;
 margin-left:0;
@@ -6947,7 +6949,7 @@ p.checkout-coupon input[type="text"] {
 }
 
 
-/*** 
+/***
 
 ====================================================================
 		Service Detail
@@ -7040,7 +7042,7 @@ p.checkout-coupon input[type="text"] {
 
 .service-detail .prod-tabs .tab-btns{
 	position:relative;
-	z-index:1;	
+	z-index:1;
 	border-bottom:1px solid #dddddd;
 }
 
@@ -7123,7 +7125,7 @@ p.checkout-coupon input[type="text"] {
 }
 
 .service-detail .prod-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 .service-detail .prod-tabs .tabs-content .tab .content{
@@ -7159,7 +7161,7 @@ p.checkout-coupon input[type="text"] {
     font-family: "Font Awesome 5 Pro";
 }
 
-/*** 
+/***
 
 ====================================================================
 		Project Detail
@@ -7175,7 +7177,7 @@ p.checkout-coupon input[type="text"] {
 .project-detail .upper-box{
 	position: relative;
 	margin-bottom: 40px;
-} 
+}
 
 .project-detail .upper-box .image{
 	position: relative;
@@ -7350,13 +7352,13 @@ display: inline-block;
 .project-detail .project-info li p{
 	font-size: 15px;
     line-height: 24px;
-    
+
     font-weight: 400;
     margin-bottom: 0;
 }
 
 .project-detail .project-info li p a{
-	
+
 	display: inline-block;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
@@ -7477,8 +7479,8 @@ width: 100% !important;
 border-radius: 10px !important;
 position: relative;
 z-index: 1;
-margin-right: 7px; 
-    
+margin-right: 7px;
+
 }
 .newslater .form-group{
     margin-bottom: 0;
@@ -7603,7 +7605,7 @@ display: inline-block;
 
 .case-study-box:hover .case-study-content02 .ss-btn{
   display: inline-block;
-} 
+}
 .case-study-box .case-study-content02{
     transition: all 0.5s ease 0s;
 }
@@ -7671,7 +7673,7 @@ display: inline-block;
   text-transform: uppercase;
   margin: 30px 0 20px;
     color:#fff;
-    
+
 }
 .skill-bar {
   height: 6px;
