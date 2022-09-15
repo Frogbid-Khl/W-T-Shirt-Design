@@ -131,7 +131,7 @@
     .portfolio-active .slick-next {
     left: 75.5%;
 }
- 
+
     .second-menu .main-menu ul li {
     margin-left: 15px;
 }
@@ -320,7 +320,7 @@ padding: 16px 27px;
     .testimonial-active2 .slick-arrow{
         display: none !important;
     }
-    
+
     .slider-content h2 {
     font-size: 35px;
 }
@@ -343,8 +343,8 @@ padding: 16px 27px;
     .services-area .services-box {
     background-size: cover !important;
 }
-    
-    
+
+
       .button-group {
     display: flex;
     overflow: scroll;
@@ -378,7 +378,7 @@ padding: 16px 27px;
     margin-top: -35px;
     color: #fff;
 }
-    
+
     .contact-bg02 {
     padding: 30px;
     margin-bottom: 80px;
@@ -419,7 +419,7 @@ padding: 16px 27px;
     width: 100%;
     padding-left: 0;
 }
-    
+
 .cta-area.cta-bg::before {
     height: 100%;
     width: 100%;
@@ -460,7 +460,7 @@ padding: 16px 27px;
     .main-menu .has-sub > ul{
         position: relative;
     }
-    
+
 .container-p {
 	padding: 0 30px;
 }
@@ -634,7 +634,7 @@ padding: 16px 27px;
     margin-top: 0;
 }
         .newslater-area.pt-170.pb-80 {
-    background-color: #ff8a01;
+    background-color: #f34068;
     background-image: none !important;
     padding: 100px 0;
 }
@@ -642,7 +642,7 @@ padding: 16px 27px;
     .newslater-area .section-title {
     margin-bottom: 50px;
 }
-    
+
 .aw-line::before{
     display: none;
     }
@@ -843,7 +843,7 @@ box-shadow: 0 0 0 0;
     .counter-bg::before{
         display: none;
     }
-    
+
 .counter-bg::after,.aw-line::before{
      display: none;
     }
@@ -853,12 +853,12 @@ box-shadow: 0 0 0 0;
     .testimonial-active2 .slick-arrow{
         display: none !important;
     }
-    
+
     .blog-content2 {
     padding: 25px;
 }
-    
-    
+
+
 .testimonial-active2 {
     width: 100%;
     background: rgb(80, 82, 171);
@@ -921,14 +921,14 @@ box-shadow: 0 0 0 0;
      .header-two .mean-container a.meanmenu-reveal {
     margin-top: -56px;
 }
-    
+
     .adim-box{
         margin-bottom: 30px;
     }
        .services-area {
     background: none !important;
 }
-    
+
     .s-about-img.p-relative {
     margin-bottom: 50px;
     margin-left: 0;
@@ -940,7 +940,7 @@ box-shadow: 0 0 0 0;
     padding: 20px 27px;
 }
     .newslater-area {
-    background: #ff8a01;
+    background: #f34068;
         background-position-x: 0%;
         background-position-y: 0%;
     padding-top: 80px;
@@ -966,8 +966,8 @@ display: none !important;
     margin-top: -57px;
         color: #fff;
 }
-  
-    
+
+
     .contact-bg02 {
     padding: 30px;
     margin-bottom: 80px;
@@ -994,7 +994,7 @@ display: none !important;
     .slider-active .slick-track::before {
     background: #fff5f4;
 }
-    
+
     #feature-top {
     margin-top: -40px;
   }
@@ -1013,7 +1013,7 @@ display: none !important;
     left: inherit;
     right: 0px;
 }
-  
+
     .faq-wrap {
     margin-top: 50px;
 }
@@ -1045,7 +1045,7 @@ display: none !important;
     .services-active2 .slider-nav {
     position: absolute;
     top: 150px;
-}   
+}
     .services-active2 .slick-arrow {
     left: -15px;
     }
@@ -1088,9 +1088,9 @@ display: none !important;
     .com-icon img{
         width: 100%;
     }
-    
+
     .counter-area {
-   
+
 }
     .single-counter-img {
     margin-bottom: 50px;
@@ -1132,7 +1132,7 @@ display: none !important;
     line-height: inherit;
     width: 50%;
 }
-    
+
 	.slider-price {
     display: none;
 }
@@ -1180,7 +1180,7 @@ display: none !important;
 .has-mega-menu{
         position:relative;
     }
-	 
+
     li.has-sub.has-mega-menu ul{
         position: relative;
         top: 0px; /*insert the needed value*/
@@ -1193,9 +1193,9 @@ display: none !important;
     /*flexbox fallback for browsers that do not support CSS GRID lyout*/
         display: flex;
         flex-wrap: wrap;
-    /*CSS GRID lyout*/ 
+    /*CSS GRID lyout*/
         display: grid;
-        grid-template-columns: repeat(auto-fit,minmax(100%, 1fr));   
+        grid-template-columns: repeat(auto-fit,minmax(100%, 1fr));
 		margin-left: 0px;
 		height:200px;
 		overflow:auto;
@@ -1203,8 +1203,8 @@ display: none !important;
 	.timeline {
 
     padding: 50px 0px 50px 50px;
-   
-}	
+
+}
 	.tag-template img {
     width: 100% !important;
 }
@@ -1265,7 +1265,7 @@ display: none !important;
 	.wp-block-gallery li {
     width: 50%;
 	}
-	
+
 .main-menu .has-sub > ul {
     display: none;
     position: relative;
@@ -1284,7 +1284,7 @@ display: none !important;
     width: 100%;
     margin-bottom: 10px;
 	margin-left:0;
-	margin-top:0;	
+	margin-top:0;
 	padding-left:15px;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0);
 	border-top:1px solid #f7f7f7;
@@ -1507,7 +1507,7 @@ background: #002e5b;
 }
 .testimonial-active {
     width: 100%;
-   
+
 }
 .portfolio .col3 .grid-item,.portfolio .col2 .grid-item {
     width:100%;
