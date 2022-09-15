@@ -21,8 +21,8 @@ $(".skill-per").each(function() {
     }
   );
 });
-    
-    
+
+
 // sticky
 $(window).on('scroll', function () {
 	var scroll = $(window).scrollTop();
@@ -60,7 +60,7 @@ $(".menu-tigger").on("click", function () {
 $(".menu-close,.offcanvas-overly").on("click", function () {
 	$(".offcanvas-menu,.offcanvas-overly").removeClass("active");
 });
-    
+
 
 
 // menu toggle
@@ -158,7 +158,7 @@ $('.services-active').slick({
 		}
 	]
 });
-    
+
     // team-active
 $('.team-active').slick({
 	dots: true,
@@ -203,13 +203,13 @@ $('.portfolio-active').slick({
 	prevArrow: '<button type="button" class="slick-prev"><i class="fas fa-arrow-left"></i></button>',
 	nextArrow: '<button type="button" class="slick-next"><i class="fas fa-arrow-right"></i></button>',
 	speed: 1000,
-	slidesToShow: 5,
+	slidesToShow: 3,
 	slidesToScroll: 1,
 	responsive: [
 		{
 			breakpoint: 1200,
 			settings: {
-				slidesToShow: 5,
+				slidesToShow: 3,
 				slidesToScroll: 1,
 				infinite: true,
 				dots: true
@@ -373,7 +373,7 @@ $('.slider-nav').slick({
   dots:false,
   arrows:true,
   centerMode: true,
-  focusOnSelect: true, 
+  focusOnSelect: true,
   variableWidth:true,
     prevArrow: '<button type="button" class="slick-prev"><i class="fas fa-arrow-left"></i></button>',
 	nextArrow: '<button type="button" class="slick-next"><i class="fas fa-arrow-right"></i></button>',
@@ -417,7 +417,7 @@ $('.home-blog-active').slick({
 
 
 
-    
+
 // blog
 $('.blog-active').slick({
 	dots: false,
@@ -432,7 +432,7 @@ $('.blog-active').slick({
 });
 
 
-    
+
 
 // counterUp
 
@@ -501,7 +501,7 @@ $.scrollUp({
 	// filter items on button click
 	$('.button-group').on('click', 'button', function () {
 		var filterValue = $(this).attr('data-filter');
-		$grid.isotope({ filter: filterValue });		
+		$grid.isotope({ filter: filterValue });
 	});
 
 });
@@ -523,13 +523,13 @@ $('.button-group > button').on('click', function(event) {
 
 // WOW active
 new WOW().init();
-    
+
 //Tabs Box
 	if($('.tabs-box').length){
 		$('.tabs-box .tab-buttons .tab-btn').on('click', function(e) {
 			e.preventDefault();
 			var target = $($(this).attr('data-tab'));
-			
+
 			if ($(target).is(':visible')){
 				return false;
 			}else{

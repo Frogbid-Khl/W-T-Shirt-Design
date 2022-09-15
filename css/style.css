@@ -2726,18 +2726,12 @@ width: 85%;
 }
 .portfolio-box {
     width: 100%;
-    height: 390px;
     box-shadow: 2.5px 4.33px 15px 0px rgba(0, 0, 0, 0.07);
     overflow: hidden;
     border-radius: 10px;
     position: relative;
 }
 
-.portfolio-box img {
-    height: 390px;
-    max-width: 600px;
-    margin-left: -150px;
-}
 .portfolio-box .caption {
     position: absolute;
     bottom: -150px;
